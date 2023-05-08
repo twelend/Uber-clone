@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Uber-clone/static/css/main.073c9b0a.css",
+    "main.js": "/Uber-clone/static/js/main.84f5e09e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Uber-clone/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/Uber-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Uber-clone/index.html",
+    "main.073c9b0a.css.map": "/Uber-clone/static/css/main.073c9b0a.css.map",
+    "main.84f5e09e.js.map": "/Uber-clone/static/js/main.84f5e09e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Uber-clone/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84f5e09e.js"
+  ]
+}
